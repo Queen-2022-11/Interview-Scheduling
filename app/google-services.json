@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081798486304",
+    "project_id": "jobs-for-women-1205d",
+    "storage_bucket": "jobs-for-women-1205d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081798486304:android:377d28915c3bda5201cf45",
+        "android_client_info": {
+          "package_name": "com.example.jobs_for_women"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_JpcbbTa5ieSvpZwXzDOLHG7VIeQyq7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
